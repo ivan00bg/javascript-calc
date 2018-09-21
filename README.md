@@ -1,2 +1,0 @@
-# javascript-calc
-javascript calc
